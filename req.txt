@@ -1,0 +1,9 @@
+langchain
+openai
+huggingface_hub[torch]
+python-dotenv
+streamlit
+llama_index
+psycopg2
+pandas
+transformers
